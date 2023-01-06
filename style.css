@@ -2,6 +2,10 @@ body{
     background: #cccccc;
 }
 
+#banner{
+    width: 100%;
+}
+
 h1{
     text-align: center;
 }
@@ -16,4 +20,6 @@ em strong{
 #mision{
     font-size: 20px;
 }
+
+
 
