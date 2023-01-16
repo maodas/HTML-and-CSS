@@ -1,3 +1,7 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
 header{
     background-color: #BBBBBB;
     padding: 20px 0;
@@ -178,8 +182,4 @@ td, thead{
 .imagendiferenciales{
     width: 60%;
 }
-
-
-
-
 
