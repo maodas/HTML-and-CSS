@@ -154,6 +154,7 @@ td, thead{
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+    clear: left;
 }
 
 .principal p{
@@ -168,9 +169,17 @@ td, thead{
     font-style:italic ;
 }
 
+.utensilios{
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
 .imagendiferenciales{
     width: 60%;
 }
+
+
 
 
 
