@@ -219,6 +219,12 @@ td, thead{
 
 .imagen-diferenciales{
     width: 60%;
+    box-shadow: 10px 10px 20px 5px #000000 ;
+}
+.imagen-diferenciales:hover{
+    opacity: 30%;
+    transition: 400ms;
+    
 }
 
 .video{
